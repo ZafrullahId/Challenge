@@ -1,0 +1,15 @@
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\bin\Debug\net6.0\Zaf Code challenge.exe
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\bin\Debug\net6.0\Zaf Code challenge.deps.json
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\bin\Debug\net6.0\Zaf Code challenge.runtimeconfig.json
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\bin\Debug\net6.0\Zaf Code challenge.dll
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\bin\Debug\net6.0\Zaf Code challenge.pdb
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\obj\Debug\net6.0\Zaf Code challenge.csproj.AssemblyReference.cache
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\obj\Debug\net6.0\Zaf Code challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\obj\Debug\net6.0\Zaf Code challenge.AssemblyInfoInputs.cache
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\obj\Debug\net6.0\Zaf Code challenge.AssemblyInfo.cs
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\obj\Debug\net6.0\Zaf Code challenge.csproj.CoreCompileInputs.cache
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\obj\Debug\net6.0\Zaf Code challenge.dll
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\obj\Debug\net6.0\refint\Zaf Code challenge.dll
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\obj\Debug\net6.0\Zaf Code challenge.pdb
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\obj\Debug\net6.0\Zaf Code challenge.genruntimeconfig.cache
+C:\Users\Zafrullah\Desktop\Zaf Code challenge\obj\Debug\net6.0\ref\Zaf Code challenge.dll
